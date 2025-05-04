@@ -9,7 +9,7 @@ What you will find in this space :
 6. AI tutor (AI agent)
 7. Animeshanime : AI Anime Generator & Publisher
 8. fraud detection using AI
-9. URLegitimate : Malicious URL detection
+9. URLegit : Malicious URL detection
 10. Single Cell RNA-Seq (scRNA-seq) Clustering + Cell Type Annotation
 11. Multi-Omics Integration for Drug Response Prediction
 12. My portfolio app
